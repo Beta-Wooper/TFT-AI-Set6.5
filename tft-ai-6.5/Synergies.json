@@ -1,297 +1,302 @@
 {
   "Ahri": {
-    "Tier": 3,
-    "Origin": ["Demon"],
-    "Classes": ["Blademaster"]
+    "Tier": 4,
+    "Origin": ["Syndicate"],
+    "Classes": ["Arcanist"]
   },
   "Alistar": {
-    "Tier": 2,
-    "Origin": ["Wild"],
-    "Classes": ["Sorcerer"]
+    "Tier": 4,
+    "Origin": ["Hextech"],
+    "Classes": ["Colossus"]
   },
   "Ashe": {
-    "Tier": 4,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 2,
+    "Origin": ["Syndicate"],
+    "Classes": ["Sniper"]
   },
   "Blitzcrank": {
-    "Tier": 5,
-    "Origin": ["Glacial"],
-    "Classes": ["Elementalist"]
+    "Tier": 2,
+    "Origin": ["Scrap"],
+    "Classes": ["Bodyguard"]
   },
   "Brand": {
-    "Tier": 3,
-    "Origin": ["Glacial"],
-    "Classes": ["Ranger"]
+    "Tier": 1,
+    "Origin": ["Debonair"],
+    "Classes": ["Arcanist"]
   },
   "Braum": {
     "Tier": 4,
-    "Origin": ["Dragon"],
-    "Classes": ["Sorcerer"]
+    "Origin": ["Syndicate"],
+    "Classes": ["Bodyguard"]
   },
   "Caitlyn": {
-    "Tier": 2,
-    "Origin": ["Robot"],
-    "Classes": ["Brawler"]
+    "Tier": 1,
+    "Origin": ["Enforcer"],
+    "Classes": ["Sniper"]
   },
   "Camille": {
-    "Tier": 4,
-    "Origin": ["Demon"],
-    "Classes": ["Elementalist"]
+    "Tier": 1,
+    "Origin": ["Clockwork"],
+    "Classes": ["Challenger"]
   },
   "Cho'Gath": {
-    "Tier": 2,
-    "Origin": ["Glacial"],
-    "Classes": ["Guardian"]
+    "Tier": 3,
+    "Origin": ["Mutant"],
+    "Classes": ["Bruiser", "Colossus"]
   },
   "Corki": {
-    "Tier": 4,
-    "Origin": ["Void"],
-    "Classes": ["Brawler"]
+    "Tier": 2,
+    "Origin": ["Yordle"],
+    "Classes": ["Twinshot"]
   },
   "Darius": {
     "Tier": 1,
-    "Origin": ["Imperial"],
-    "Classes": ["Knight"]
+    "Origin": ["Syndicate"],
+    "Classes": ["Bodyguard"]
   },
   "Draven": {
     "Tier": 4,
-    "Origin": ["Imperial"],
-    "Classes": ["Blademaster"]
+    "Origin": ["Debonair"],
+    "Classes": ["Challenger"]
   },
   "Ekko": {
-    "Tier": 1,
-    "Origin": ["Demon"],
-    "Classes": ["Shapeshifter"]
+    "Tier": 3,
+    "Origin": ["Scrap"],
+    "Classes": ["Assassin", "Innovator"]
   },
   "Ezreal": {
-    "Tier": 3,
-    "Origin": ["Demon"],
-    "Classes": ["Assassin"]
+    "Tier": 1,
+    "Origin": ["Scrap"],
+    "Classes": ["Innovator"]
   },
   "Galio": {
-    "Tier": 1,
-    "Origin": ["Noble"],
-    "Classes": ["Blademaster"]
+    "Tier": 5,
+    "Origin": ["Socialite"],
+    "Classes": ["Bodyguard", "Colossus"]
   },
   "Gangplank": {
     "Tier": 3,
-    "Origin": ["Pirate"],
-    "Classes": ["Blademaster", "Gunslinger"]
+    "Origin": ["Mercenary"],
+    "Classes": ["Twinshot"]
   },
   "Gnar": {
-    "Tier": 1,
-    "Origin": ["Noble"],
-    "Classes": ["Knight"]
+    "Tier": 3,
+    "Origin": ["Socialite", "Yordle"],
+    "Classes": ["Striker"]
   },
   "Illaoi": {
-    "Tier": 4,
-    "Origin": ["Wild", "Yordle"],
-    "Classes": ["Shapeshifter"]
+    "Tier": 1,
+    "Origin": ["Mercenary"],
+    "Classes": ["Bruiser"]
   },
   "Irelia": {
-    "Tier": 1,
-    "Origin": ["Pirate"],
-    "Classes": ["Gunslinger"]
+    "Tier": 4,
+    "Origin": ["Scrap"],
+    "Classes": ["Striker"]
   },
   "Jarvan IV": {
-    "Tier": 5,
-    "Origin": ["Phantom"],
-    "Classes": ["Sorcerer"]
+    "Tier": 1,
+    "Origin": ["Hextech"],
+    "Classes": ["Striker"]
   },
   "Jayce": {
-    "Tier": 1,
-    "Origin": ["Void"],
-    "Classes": ["Sorcerer"]
+    "Tier": 5,
+    "Origin": ["Enforcer"],
+    "Classes": ["Innovator", "Transformer"]
   },
   "Jhin": {
-    "Tier": 3,
-    "Origin": ["Imperial"],
-    "Classes": ["Assassin"]
+    "Tier": 4,
+    "Origin": ["Clockwork"],
+    "Classes": ["Sniper"]
   },
   "Jinx": {
     "Tier": 5,
-    "Origin": ["Noble"],
-    "Classes": ["Knight"]
+    "Origin": ["Scrap", "Rival"],
+    "Classes": ["Twinshot"]
   },
-  "Kai'sa": {
-    "Tier": 3,
-    "Origin": ["Ninja", "Yordle"],
-    "Classes": ["Elementalist"]
+  "Kai'Sa": {
+    "Tier": 5,
+    "Origin": ["Mutant"],
+    "Classes": ["Challenger"]
   },
   "Kassadin": {
     "Tier": 1,
-    "Origin": ["Void"],
-    "Classes": ["Assassin"]
+    "Origin": ["Mutant"],
+    "Classes": ["Scholar"]
   },
   "Kha'Zix": {
     "Tier": 4,
-    "Origin": ["Phantom"],
-    "Classes": ["Ranger"]
+    "Origin": ["Mutant"],
+    "Classes": ["Assassin"]
   },
   "Leona": {
-    "Tier": 4,
-    "Origin": ["Noble"],
-    "Classes": ["Guardian"]
+    "Tier": 3,
+    "Origin": ["Debonair"],
+    "Classes": ["Bodyguard"]
   },
   "Lucian": {
-    "Tier": 2,
-    "Origin": ["Glacial"],
-    "Classes": ["Elementalist"]
+    "Tier": 3,
+    "Origin": ["Hextech"],
+    "Classes": ["Twinshot"]
   },
   "Lulu": {
     "Tier": 2,
-    "Origin": ["Noble"],
-    "Classes": ["Gunslinger"]
+    "Origin": ["Yordle"],
+    "Classes": ["Enchanter"]
   },
   "Malzahar": {
-    "Tier": 2,
-    "Origin": ["Yordle"],
-    "Classes": ["Sorcerer"]
+    "Tier": 3,
+    "Origin": ["Mutant"],
+    "Classes": ["Arcanist"]
   },
   "Miss Fortune": {
-    "Tier": 5,
-    "Origin": ["Pirate"],
-    "Classes": ["Gunslinger"]
+    "Tier": 3,
+    "Origin": ["Mercenary"],
+    "Classes": ["Sniper"]
   },
   "Morgana": {
-    "Tier": 1,
-    "Origin": ["Phantom"],
-    "Classes": ["Knight"]
+    "Tier": 3,
+    "Origin": ["Syndicate"],
+    "Classes": ["Enchanter"]
   },
   "Nocturne": {
-    "Tier": 3,
-    "Origin": ["Demon"],
-    "Classes": ["Sorcerer"]
+    "Tier": 1,
+    "Origin": ["Hextech"],
+    "Classes": ["Assassin"]
   },
   "Orianna": {
-    "Tier": 1,
-    "Origin": ["Wild"],
-    "Classes": ["Shapeshifter"]
+    "Tier": 4,
+    "Origin": ["Clockwork"],
+    "Classes": ["Enchanter"]
   },
   "Poppy": {
     "Tier": 3,
     "Origin": ["Yordle"],
-    "Classes": ["Knight"]
+    "Classes": ["Bodyguard"]
   },
   "Quinn": {
     "Tier": 2,
-    "Origin": ["Pirate"],
-    "Classes": ["Assassin"]
+    "Origin": ["Mercenary"],
+    "Classes": ["Challenger"]
   },
   "Rek'Sai": {
     "Tier": 2,
-    "Origin": ["Void"],
-    "Classes": ["Brawler"]
+    "Origin": ["Mutant"],
+    "Classes": ["Bruiser", "Striker"]
   },
   "Renata Glasc": {
-    "Tier": 3,
-    "Origin": ["Wild"],
-    "Classes": ["Assassin"]
+    "Tier": 4,
+    "Origin": ["Chemtech"],
+    "Classes": ["Scholar"]
   },
   "Sejuani": {
-    "Tier": 4,
-    "Origin": ["Glacial"],
-    "Classes": ["Knight"]
+    "Tier": 2,
+    "Origin": ["Enforcer", "Hextech"],
+    "Classes": ["Bruiser"]
   },
   "Senna": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Blademaster"]
+    "Tier": 3,
+    "Origin": ["Socialite"],
+    "Classes": ["Enchanter"]
   },
   "Seraphine": {
-    "Tier": 3,
-    "Origin": ["Dragon"],
-    "Classes": ["Shapeshifter"]
+    "Tier": 4,
+    "Origin": ["Socialite"],
+    "Classes": ["Scrap"]
   },
   "Silco": {
     "Tier": 5,
-    "Origin": ["Demon", "Imperial"],
-    "Classes": ["Shapeshifter"]
+    "Origin": ["Mastermind"],
+    "Classes": ["Scholar"]
   },
   "Singed": {
     "Tier": 1,
-    "Origin": ["Yordle"],
-    "Classes": ["Gunslinger"]
+    "Origin": ["Chemtech"],
+    "Classes": ["Innovator"]
   },
   "Sivir": {
-    "Tier": 2,
-    "Origin": ["Pirate"],
-    "Classes": ["Sorcerer"]
+    "Tier": 4,
+    "Origin": ["Hextech"],
+    "Classes": ["Striker"]
   },
   "Swain": {
     "Tier": 2,
-    "Origin": ["Demon"],
-    "Classes": ["Ranger"]
+    "Origin": ["Hextech"],
+    "Classes": ["Arcanist"]
   },
   "Syndra": {
-    "Tier": 1,
-    "Origin": ["Noble"],
-    "Classes": ["Ranger"]
+    "Tier": 2,
+    "Origin": ["Debonair"],
+    "Classes": ["Scholar"]
   },
   "Tahm Kench": {
-    "Tier": 3,
-    "Origin": ["Yordle"],
-    "Classes": ["Sorcerer"]
+    "Tier": 5,
+    "Origin": ["Glutton", "Mercenary"],
+    "Classes": ["Bruiser"]
   },
   "Talon": {
-    "Tier": 3,
-    "Origin": ["Glacial"],
-    "Classes": ["Brawler"]
+    "Tier": 2,
+    "Origin": ["Debonair"],
+    "Classes": ["Assassin"]
   },
   "Tryndamere": {
-    "Tier": 1,
-    "Origin": ["Wild"],
-    "Classes": ["Brawler"]
+    "Tier": 3,
+    "Origin": ["Chemtech"],
+    "Classes": ["Challenger"]
   },
   "Twitch": {
+    "Tier": 1,
+    "Origin": ["Chemtech"],
+    "Classes": ["Assassin"]
+  },
+  "Veigar": {
     "Tier": 5,
-    "Origin": ["Exile"],
-    "Classes": ["Blademaster"]
+    "Origin": ["Yordle-Lord"],
+    "Classes": []
   },
   "Vex": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 3,
+    "Origin": ["Yordle"],
+    "Classes": ["Arcanist"]
   },
   "Vi": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 4,
+    "Origin": ["Enforcer", "Rival"],
+    "Classes": ["Bruiser"]
   },
   "Viktor": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 5,
+    "Origin": ["Chemtech"],
+    "Classes": ["Arcanist"]
   },
   "Warwick": {
     "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Origin": ["Chemtech"],
+    "Classes": ["Challenger"]
   },
   "Zac": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 3,
+    "Origin": ["Chemtech"],
+    "Classes": ["Bruiser"]
   },
   "Zeri": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 5,
+    "Origin": ["Debonair"],
+    "Classes": ["Sniper"]
   },
   "Ziggs": {
-    "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Tier": 1,
+    "Origin": ["Scrap", "Yordle"],
+    "Classes": ["Arcanist"]
   },
   "Zilean": {
     "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Origin": ["Clockwork"],
+    "Classes": ["Innovator"]
   },
   "Zyra": {
     "Tier": 2,
-    "Origin": ["Ninja"],
-    "Classes": ["Assassin"]
+    "Origin": ["Syndicate"],
+    "Classes": ["Scholar"]
   }
 }

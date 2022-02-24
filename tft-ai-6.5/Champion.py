@@ -5,10 +5,10 @@ class Champion:
 
     # static champion data for easy synergy and stat access
 
-    with open("Synergies.json", "r") as file:
+    with open("tft-ai-6.5\Synergies.json", "r") as file: 
         synergies = json.load(file)
 
-    with open("stats.json", "r") as file:
+    with open("tft-ai-6.5\Stats.json", "r") as file:
         stats = json.load(file)
 
     def __init__(self, name, star_level):

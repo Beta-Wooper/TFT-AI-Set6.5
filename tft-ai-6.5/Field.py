@@ -68,14 +68,14 @@ class Field:
             if champ == champion:
                 self.board_position[idx] = None
         if champion.name in self.champions:
-            if len(champions[champion.name]) == 1:
+            if len(champion[champion.name]) == 1:
                 for champ_origin in champion.origin:
                     self.active_synergies[champ_origin]["active"] -= 1
                 for champ_class in champion.classes:
                     self.active_synergies[champ_class]["active"] -= 1
                 self.champions.pop(champion.name)
             else:
-                if len(champions[champion.name][champion.star_level]) == 1:
+                if len(champion[champion.name][champion.star_level]) == 1:
                     self.champions[champion.name].pop(champion.star_level)
                 else:
                     self.champions[champion.name][champion.star_level].remove(champion)
